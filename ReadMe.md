@@ -1,3 +1,6 @@
+> [!NOTE]
+> Here is the [**English Version**](ReadMe.en.md) of **About Me**.
+
 ### Sobre mí
 
 Me llamo Rima, tengo 23 años. Soy de Comunidad Valenciana, España. Ella.
@@ -18,3 +21,5 @@ Siempre estoy abierta a conocer gente nueva y charlar, ¡así que agrégame si t
 #### Profesionales
 - [LinkedIn](https://linkedin.com/in/fembina)
 - [Telegram](https://t.me/fembina)
+
+_Me comunico en inglés y español._
