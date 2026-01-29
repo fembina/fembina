@@ -1,16 +1,14 @@
-## Hi there 👋
+## Sobre mí
 
-<!--
-**fembina/fembina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Rima, tengo 23 años. Soy de Valencia, España. Ella.
 
-Here are some ideas to get you started:
+Me apasiona la fermentación, los videojuegos y la programación. En general, no me gusta vivir aburrida: me encanta viajar y descubrir cosas nuevas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Siempre estoy abierta a conocer gente nueva y charlar, ¡así que agrégame si te apetece!
+
+# Mis contactos
+
+- [url=discord.com/users/fembina]Discord[/url] ːstardropː
+- [url=instagram.com/fembina]Instagram[/url] ːstardropː
+- [url=t.me/fembina]Telegram[/url] ːstardropː
+- [url=github.com/fembina]GitHub[/url] ːstardropː
