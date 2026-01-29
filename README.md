@@ -8,7 +8,7 @@ Siempre estoy abierta a conocer gente nueva y charlar, ¡así que agrégame si t
 
 # Mis contactos
 
-- [url=discord.com/users/fembina]Discord[/url] ːstardropː
-- [url=instagram.com/fembina]Instagram[/url] ːstardropː
-- [url=t.me/fembina]Telegram[/url] ːstardropː
-- [url=github.com/fembina]GitHub[/url] ːstardropː
+- [Discord](https://discord.com/users/fembina)
+- [Instagram](https://instagram.com/fembina)
+- [Telegram](https://t.me/fembina)
+- [GitHub](https://github.com/fembina)
