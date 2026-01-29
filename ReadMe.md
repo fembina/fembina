@@ -1,5 +1,5 @@
 > [!NOTE]
-> Here is the [**English Version**](ReadMe.en.md) of **About Me**.
+> Here is the [**english version**](ReadMe.en.md) of **about me**.
 
 ### Sobre mí
 
