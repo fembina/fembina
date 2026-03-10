@@ -3,7 +3,7 @@
 
 ### Sobre mí
 
-Me llamo Rima, tengo 23 años. Soy de Comunidad Valenciana, España. Ella.
+Me llamo Rima, tengo 23 años. Soy de Islas Baleares, España. Ella.
 
 Me apasiona la fermentación, los videojuegos y la programación. En general, no me gusta vivir aburrida: me encanta viajar y descubrir cosas nuevas.
 
