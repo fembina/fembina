@@ -11,15 +11,10 @@ I'm always open to meeting new people and chatting, so feel free to add me, if y
 
 ### My Contacts
 
-#### Personal
 - [Discord](https://discord.com/users/fembina)
 - [Instagram](https://instagram.com/fembina)
 - [Telegram](https://t.me/fembina)
 - [Twitter](https://x.com/fembina)
 - [Steam](https://steamcommunity.com/id/fembina)
-
-#### Professional
-- [LinkedIn](https://linkedin.com/in/fembina)
-- [Telegram](https://t.me/fembina)
 
 _I communicate in English and Spanish._
