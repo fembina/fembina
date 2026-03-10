@@ -3,7 +3,7 @@
 
 ### About Me
 
-My name is Rima, I'm 23 years old girl. I'm from the Valencian Community, Spain.
+My name is Rima, I'm 23 years old girl. I'm from the Balearic Islands, Spain.
 
 I'm passionate about fermentation, video games, and programming. In general, I don't like living a boring life - I love traveling and discovering new things.
 
