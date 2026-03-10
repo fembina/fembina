@@ -11,15 +11,10 @@ Siempre estoy abierta a conocer gente nueva y charlar, ¡así que agrégame si t
 
 ### Mis contactos
 
-#### Personales
 - [Discord](https://discord.com/users/fembina)
 - [Instagram](https://instagram.com/fembina)
 - [Telegram](https://t.me/fembina)
 - [Twitter](https://x.com/fembina)
 - [Steam](https://steamcommunity.com/id/fembina)
-
-#### Profesionales
-- [LinkedIn](https://linkedin.com/in/fembina)
-- [Telegram](https://t.me/fembina)
 
 _Me comunico en inglés y español._
